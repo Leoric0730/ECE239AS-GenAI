@@ -1,0 +1,5 @@
+
+# .gitignore
+*.pth
+*.zip
+*.wandb
